@@ -12,8 +12,8 @@
     Sobre mim:
   </h5>
   <ul>
-    <li>⭑ Estudante de ciência da computação na CESAR school;</li>
-    <li>⭑ Desenvolvendo a carreira Back-End na linguagem de programação Python; </li>
-    <li>⭑ Interesse nas áreas Full Stack, cybersegurança e IoT.</li>
+    <p>⭑ Estudante de ciência da computação na CESAR school;</p>p
+    <p>⭑ Desenvolvendo a carreira Back-End na linguagem de programação Python; </p>
+    <p>⭑ Interesse nas áreas Full Stack, cybersegurança e IoT.</p>
   </ul>
 </div>
