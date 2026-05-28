@@ -1,3 +1,5 @@
+<img url="https://you-silly-goose.tumblr.com/post/122772131952" alt="gif_estrelas" width="300">
+
 ## Hi there 👋
 
 <!--
