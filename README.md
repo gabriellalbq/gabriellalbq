@@ -7,7 +7,7 @@
       </h3>
 </div>
 
-<div align="left">
+<div align="left" class='teste'>
   <h3>
     Sobre mim:
   </h3>
