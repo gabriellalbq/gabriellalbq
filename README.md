@@ -8,9 +8,9 @@
 </div>
 
 <div align="left">
-  <h5>
+  <h3>
     Sobre mim:
-  </h5>
+  </h3>
   <ul>
     <p>⭑ Estudante de ciência da computação na CESAR school;</p>
     <p>⭑ Desenvolvendo a carreira Back-End na linguagem de programação Python; </p>
