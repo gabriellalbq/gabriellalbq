@@ -15,6 +15,9 @@
 </div>
 
 <div align="left">
+  <p>
+    ㅤ
+  </p>
   <h4>
     Sobre mim:
   </h4>
