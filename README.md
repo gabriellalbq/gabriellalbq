@@ -2,15 +2,19 @@
 
 <div align="center">
   <img src="estrelas_gif (1) (1).gif" style="width: 100%; height: 250px; object-fit: cover;" alt="estrelas"/>
-      <h3>
-        Welcome to my profile ✧
-      </h3>
+      <samp>
+        Welcome to 
+        <b>
+          my profile
+        </b>
+        ✧
+      </samp>
 </div>
 
 <div align="left">
-  <h3>
+  <h4>
     Sobre mim:
-  </h3>
+  </h4>
   <ul>
     <li> Estudante de ciência da computação na CESAR school;</li>
     <li> Desenvolvendo a carreira Back-End na linguagem de programação Python; </li>
