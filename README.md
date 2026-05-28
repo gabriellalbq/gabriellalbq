@@ -7,13 +7,13 @@
       </h3>
 </div>
 
-<div align="left" class='teste'>
+<div align="left">
   <h3>
     Sobre mim:
   </h3>
   <ul>
-    <p>⭑ Estudante de ciência da computação na CESAR school;</p>
-    <p>⭑ Desenvolvendo a carreira Back-End na linguagem de programação Python; </p>
-    <p>⭑ Interesse nas áreas Full Stack, cybersegurança e IoT.</p>
+    <li> Estudante de ciência da computação na CESAR school;</li>
+    <li> Desenvolvendo a carreira Back-End na linguagem de programação Python; </li>
+    <li> Interesse nas áreas Full Stack, cybersegurança e IoT.</li>
   </ul>
 </div>
