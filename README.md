@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-<div align="center" style="font-size: 24px;">
+<div align="center" style="font-size: 500px;">
   <img src="estrelas_gif (1) (1).gif" style="width: 100%; height: 250px; object-fit: cover;" alt="estrelas"/>
   <p>
     ㅤ
