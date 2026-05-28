@@ -6,3 +6,14 @@
         Welcome to my profile ✧
       </h3>
 </div>
+
+<div align="left">
+  <h5>
+    Sobre mim:
+  </h5>
+  <ul>
+    <li>⭑ Estudante de ciência da computação na CESAR school;</li>
+    <li>⭑ Desenvolvendo a carreira Back-End na linguagem de programação Python; </li>
+    <li>⭑ Interesse nas áreas Full Stack, cybersegurança e IoT.</li>
+  </ul>
+</div>
