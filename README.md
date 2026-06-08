@@ -2,11 +2,6 @@
 
 <div align="center">
   <img src="estrelas_gif (1) (1).gif" style="width: 100%; height: 250px; object-fit: cover;" alt="estrelas"/>
-  <p>
-    ㅤ
-  </p>
-  
-  <img src="https://github.com/gabriellalbq.png" width="130px" style="border-radius: 50%;" alt="Foto de Perfil"/>
   
   # Gabriella Albuquerque
   ### @gabriellalbq
