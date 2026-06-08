@@ -5,13 +5,19 @@
   <p>
     ㅤ
   </p>
-      <samp>
-        Welcome to 
-        <b>
-          my profile
-        </b>
-        ✧
-      </samp>
+  
+  <img src="https://github.com/gabriellalbq.png" width="130px" style="border-radius: 50%;" alt="Foto de Perfil"/>
+  
+  # Gabriella Albuquerque
+  ### @gabriellalbq
+
+  <samp>
+    Welcome to 
+    <b>
+      my profile
+    </b>
+    ✧
+  </samp>
 </div>
 
 <div align="left">
@@ -27,6 +33,11 @@
     <li> Interesse nas áreas Full Stack, cybersegurança e IoT.</li>
   </ul>
 </div>
+
+## ✧ contato profissional;
+* **linkedin:** [linkedin](https://linkedin.com/in/gabriellalbq)
+* **e-mail:** [gla3l@cesar.school](mailto:gla3@cesar.school)
+---
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gabriellalbq&theme=midnight-purple" alt="GitHub Streak" /></a>
