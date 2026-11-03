@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="ps.gif" width="600" style="aspect-ratio: 16/9; object-fit: cover;" alt="gif">
-</p>
+<div align="center" style="width: 100%; max-height: 250px; overflow: hidden; border-radius: 8px;">
+  <img src="ps.gif" style="width: 100%; margin-top: -20%;" alt="gif">
+</div>
 
 ## `$ whoami`
 
