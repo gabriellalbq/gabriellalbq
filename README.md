@@ -1,3 +1,5 @@
+<img src="ps.gif" width="300" alt="gif">
+
 ## `$ whoami`
 
 ```c
