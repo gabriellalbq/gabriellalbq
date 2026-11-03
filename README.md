@@ -69,3 +69,12 @@ struct Developer {
 </p>
 
 ## `$ connect --socials`
+
+<p align="left">
+  <a href="mailto:gabriellalimaalbq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriellaalbq/">
+    <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
