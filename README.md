@@ -1,16 +1,19 @@
-## Hi there 👋
+## `$ whoami`
 
-<!--
-**gabriellalbq/gabriellalbq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```c
+struct Developer {
+    const char* name;
+    const char* role;
+    const char* currentlyLearning[4];
+};
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+struct Developer gabi = {
+    .name = "Gabriella de Lima",
+    .role = "dev in progress",
+    .currentlyLearning = {
+        "c",
+        "framework django",
+        "lógica",
+        "IHC"
+    },
+};
