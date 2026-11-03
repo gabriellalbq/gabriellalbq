@@ -1,4 +1,6 @@
-<img src="ps.gif" width="300" alt="gif">
+<p align="center">
+  <img src="ps.gif" width="600" style="aspect-ratio: 16/9; object-fit: cover;" alt="gif">
+</p>
 
 ## `$ whoami`
 
