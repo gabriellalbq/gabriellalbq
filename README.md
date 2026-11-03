@@ -4,7 +4,7 @@
 
 ## `$ whoami`
 
-  struct Developer {
+  ````struct Developer {
       const char* name;
       const char* role;
       const char* currentlyLearning[4];
